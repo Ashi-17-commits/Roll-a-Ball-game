@@ -5,7 +5,6 @@ A small, beginner-friendly 3D rolling ball game built with Unity. The player rol
 > Note: This README is written to be generic and work with typical Unity Roll-a-Ball projects. If your repository uses a specific Unity version, packages, or has custom scenes/assets, update the "Requirements" and "Project structure" sections accordingly.
 
 ## Table of Contents
-- [Demo / Screenshots](#demo--screenshots)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
